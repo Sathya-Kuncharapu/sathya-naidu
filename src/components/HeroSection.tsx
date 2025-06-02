@@ -2,6 +2,13 @@
 import { Github, Linkedin, Mail, Download } from 'lucide-react';
 
 const HeroSection = () => {
+  const handleResumeDownload = () => {
+    const link = document.createElement('a');
+    link.href = '/resume.pdf';
+    link.download = 'Sathya_Naidu_Resume.pdf';
+    link.click();
+  };
+
   return (
     <section id="home" className="min-h-screen flex items-center justify-center px-6 py-20">
       <div className="max-w-6xl mx-auto grid lg:grid-cols-2 gap-12 items-center">
@@ -37,7 +44,10 @@ const HeroSection = () => {
               <Linkedin size={20} />
               LinkedIn
             </a>
-            <button className="flex items-center gap-2 px-6 py-3 border border-portfolio-golden text-portfolio-golden hover:bg-portfolio-golden hover:text-portfolio-dark transition-all duration-300 rounded-lg hover-glow">
+            <button 
+              onClick={handleResumeDownload}
+              className="flex items-center gap-2 px-6 py-3 border border-portfolio-golden text-portfolio-golden hover:bg-portfolio-golden hover:text-portfolio-dark transition-all duration-300 rounded-lg hover-glow"
+            >
               <Download size={20} />
               Resume
             </button>

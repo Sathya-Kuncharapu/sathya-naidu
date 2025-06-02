@@ -1,0 +1,176 @@
+
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2800
+>>
+stream
+BT
+/F1 16 Tf
+50 750 Td
+(KUNCHARAPU SATHYA) Tj
+0 -20 Td
+/F1 12 Tf
+(sathyakuncharapu5@gmail.com | +91-9390582064) Tj
+0 -15 Td
+(https://peppy-cheesecake-ecb855.netlify.app) Tj
+0 -15 Td
+(https://github.com/Sathya-Kuncharapu | https://www.linkedin.com/in/sathya-naidu-kuncharapu/) Tj
+
+0 -40 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -25 Td
+/F1 12 Tf
+(Maturi Venkata subba rao engineering college, Hyderabad) Tj
+200 0 Td
+(2021-2025) Tj
+-200 -15 Td
+(B.Tech – Information Technology - CGPA - 7.1) Tj
+
+0 -40 Td
+/F1 14 Tf
+(EXPERIENCE) Tj
+0 -25 Td
+/F1 12 Tf
+(Kloud Codes - Intern Trainee) Tj
+300 0 Td
+(March 2025 - May 2025) Tj
+-300 -15 Td
+(Hyderabad, Telangana) Tj
+0 -15 Td
+(• Completed a 2-month internship at Kloud Codes, contributing to the LMS Development Team) Tj
+0 -12 Td
+(  with a focus on AI integration.) Tj
+0 -12 Td
+(• Collaborated on designing and implementing AI-driven features to enhance user learning) Tj
+0 -12 Td
+(  experience and platform efficiency.) Tj
+0 -12 Td
+(• Gained hands-on experience in full-stack development and integration of AI models) Tj
+0 -12 Td
+(  into LMS workflows.) Tj
+0 -12 Td
+(• Worked on optimizing learning modules using intelligent recommendation systems) Tj
+0 -12 Td
+(  and automation tools.) Tj
+
+0 -40 Td
+/F1 14 Tf
+(PROJECTS) Tj
+0 -25 Td
+/F1 12 Tf
+(Vehicle Number Plate Recognition | OpenCV, Python, TensorFlow, CNN) Tj
+250 0 Td
+(Jan 2024) Tj
+-250 -15 Td
+(This project focuses on vehicle number plate recognition using deep learning techniques.) Tj
+0 -12 Td
+(It employs image processing for character segmentation and recognition, optimizing) Tj
+0 -12 Td
+(accuracy with genetic algorithms and backpropagation neural networks.) Tj
+
+0 -25 Td
+(Gold & Silver Resale Web App | Google Colab, Anvil, Python) Tj
+250 0 Td
+(Jan 2025) Tj
+-250 -15 Td
+(The Gold Resale Marketplace is a secure platform where users can buy and sell) Tj
+0 -12 Td
+(gold and silver ornaments with verified authenticity.) Tj
+
+0 -25 Td
+(Railway Navigation System | React, Vite, TypeScript) Tj
+250 0 Td
+(March 2025) Tj
+-250 -15 Td
+(Railway Navigation System provides interactive wayfinding at Secunderabad Station,) Tj
+0 -12 Td
+(dynamically updating maps and step-by-step directions based on user input.) Tj
+
+0 -40 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F1 12 Tf
+(• Frontend Development: HTML5, CSS3) Tj
+0 -12 Td
+(• Backend Development: Python, Flask, REST API Development) Tj
+0 -12 Td
+(• Database Management: MySQL, RDBMS) Tj
+0 -12 Td
+(• DevOps Tools: Jenkins \(CI/CD\), Docker) Tj
+0 -12 Td
+(• Version Control: Git) Tj
+0 -12 Td
+(• Development Methodologies: DevOps, Agile Methodologies) Tj
+
+0 -40 Td
+/F1 14 Tf
+(CERTIFICATIONS) Tj
+0 -20 Td
+/F1 12 Tf
+(• LMS) Tj
+0 -12 Td
+(• Cloud Computing using AWS) Tj
+0 -12 Td
+(• Natural Language Processing using Python) Tj
+0 -12 Td
+(• Generative AI) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000003126 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+3195
+%%EOF
