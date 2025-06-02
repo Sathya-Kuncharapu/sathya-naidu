@@ -66,10 +66,46 @@
   }
   
   .hover-glow {
-    @apply transition-all duration-300 hover:shadow-lg hover:shadow-portfolio-golden/20;
+    @apply transition-all duration-300 hover:shadow-lg hover:shadow-portfolio-golden/20 hover:scale-[1.02];
   }
   
   .card-hover {
     @apply transition-all duration-300 hover:transform hover:scale-105 hover:shadow-xl hover:shadow-portfolio-golden/10;
+  }
+
+  .button-hover {
+    @apply transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-portfolio-golden/30;
+  }
+
+  .nav-link {
+    @apply relative transition-all duration-300 hover:text-portfolio-golden;
+  }
+
+  .nav-link::after {
+    @apply content-[''] absolute bottom-0 left-0 w-0 h-0.5 bg-portfolio-golden transition-all duration-300;
+  }
+
+  .nav-link:hover::after {
+    @apply w-full;
+  }
+
+  .image-hover {
+    @apply transition-all duration-500 hover:scale-110 hover:rotate-2;
+  }
+
+  .skill-card {
+    @apply transition-all duration-300 hover:bg-portfolio-dark-tertiary hover:shadow-lg hover:shadow-portfolio-golden/10 hover:-translate-y-2;
+  }
+
+  .social-icon {
+    @apply transition-all duration-300 transform hover:scale-110 hover:rotate-12 hover:shadow-lg hover:shadow-portfolio-golden/20;
+  }
+
+  .fade-in-up {
+    @apply opacity-0 translate-y-8 transition-all duration-700 ease-out;
+  }
+
+  .fade-in-up.animate {
+    @apply opacity-100 translate-y-0;
   }
 }
